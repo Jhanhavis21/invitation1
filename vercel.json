@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/ananya-aarav-engagement-redesign/index.html"
+    }
+  ]
+}
